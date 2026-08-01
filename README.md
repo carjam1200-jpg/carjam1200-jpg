@@ -6,12 +6,24 @@ Welcome to my GitHub profile! I'm a self-taught developer passionate about build
 
 I'm a passionate developer who loves diving into projects that challenge me to learn and grow. I enjoy reverse-engineering problems, understanding system architecture, and creating solutions that actually work. When I'm not coding, you can find me gaming or cooking up something new in the kitchen.
 
+## 🖥️ My Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" alt="Android" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" />
+</div>
+
 ## 💡 Skills & Technologies
 
 **Languages:** Python, JavaScript, C, [Add more as you learn]  
-**Systems & OS:** Linux, OS Development, System Administration  
-**Tools & Platforms:** Git, Virtual Machines, [Add more]  
-**Interests:** Operating Systems, Low-level Programming, System Design
+**Operating Systems:** Windows, Linux, Android, Virtual Machines  
+**Systems & OS:** OS Development, System Administration, Virtualization  
+**Tools & Platforms:** Git, VirtualBox, VMware, [Add more]  
+**Interests:** Operating Systems, Low-level Programming, System Design, Mobile Development
 
 ## 🎯 Featured Projects
 
