@@ -1,12 +1,35 @@
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║                    👋 Welcome to My Terminal 👋                ║
+║                                                                ║
+║                      $ whoami                                  ║
+║                      > carson                                  ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
 # Hey, I'm Carson 👋
 
-Welcome to my GitHub profile! I'm a self-taught developer passionate about building cool projects and exploring how software works from the ground up.
+Self-taught developer passionate about building cool projects and exploring how software works from the ground up.
 
-## 🚀 About Me
+---
 
-I'm a passionate developer who loves diving into projects that challenge me to learn and grow. I enjoy reverse-engineering problems, understanding system architecture, and creating solutions that actually work. When I'm not coding, you can find me gaming or cooking up something new in the kitchen.
+## 🚀 $ cd about_me
 
-## 🖥️ My Tech Stack
+```
+I'm a passionate developer who loves diving into projects that 
+challenge me to learn and grow. I enjoy reverse-engineering problems, 
+understanding system architecture, and creating solutions that 
+actually work. 
+
+When I'm not coding, you can find me gaming or cooking up 
+something new in the kitchen.
+```
+
+---
+
+## 🖥️ $ ls -la my_tech_stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50" />
@@ -17,35 +40,75 @@ I'm a passionate developer who loves diving into projects that challenge me to l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="50" />
 </div>
 
-## 💡 Skills & Technologies
+```
+LANGUAGES
+├── Python
+├── JavaScript
+├── C
+└── [Add more as you learn]
 
-**Languages:** Python, JavaScript, C, [Add more as you learn]  
-**Operating Systems:** Windows, Linux, Android, Virtual Machines  
-**Systems & OS:** OS Development, System Administration, Virtualization  
-**Tools & Platforms:** Git, VirtualBox, VMware, [Add more]  
-**Interests:** Operating Systems, Low-level Programming, System Design, Mobile Development
+OPERATING SYSTEMS
+├── Windows
+├── Linux
+├── Android
+└── Virtual Machines
 
-## 🎯 Featured Projects
-
-### [RebuiltTux-OS](https://github.com/carjam1200-jpg/rebuilttux-os)
-An ambitious operating system project showcasing deep system-level knowledge.
-- **Tech Stack:** C, Assembly, Low-level Systems
-- **Highlight:** Custom OS kernel and system utilities
+SPECIALIZATIONS
+├── OS Development
+├── System Administration
+├── Virtualization
+├── Low-level Programming
+└── System Design
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 $ cat featured_projects.txt
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│ PROJECT: RebuiltTux-OS                                          │
+│ STATUS: [████████░░░░░░░░░░░░░░░░░░░░] 35% Complete           │
+├─────────────────────────────────────────────────────────────────┤
+│ DESCRIPTION:                                                    │
+│   An ambitious operating system project showcasing deep         │
+│   system-level knowledge and low-level programming expertise.   │
+│                                                                 │
+│ TECH STACK: C, Assembly, Low-level Systems                     │
+│ HIGHLIGHT: Custom OS kernel and system utilities               │
+│ REPO: https://github.com/carjam1200-jpg/rebuilttux-os          │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 $ git log --stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=carjam1200-jpg&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carjam1200-jpg&layout=compact&theme=tokyonight)
 
-## 💬 Let's Connect
+---
 
-- 📧 Feel free to reach out to collaborate or discuss interesting projects!
-- 🎮 Gaming & tech enthusiast
-- 🍳 Also passionate about cooking
+## 💬 $ connect --help
+
+```
+OPTIONS:
+  -e, --email         Feel free to reach out to collaborate 
+                      or discuss interesting projects!
+  -g, --gaming        Gaming & tech enthusiast
+  -c, --cooking       Also passionate about cooking
+```
 
 ---
 
-*Always learning, always building. Check out my repositories to see what I'm working on!* 🚀
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║        Always learning, always building. Check out my          ║
+║         repositories to see what I'm working on! 🚀            ║
+║                                                                ║
+║                  $ exit --thanks_for_visiting                  ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
