@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.icons8.com/?id=fKFOsu7rrXwy&format=png" alt="Linux Logo" width="100" />
+<img src="https://img.icons8.com/?id=0SawQaF5Po5U&format=png" alt="Linux Logo" width="100" />
 
 </div>
 
