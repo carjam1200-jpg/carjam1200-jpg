@@ -1,5 +1,11 @@
 # 👋 Hey, I'm Carson
 
+<div align="center">
+
+<img src="https://img.icons8.com/?id=fKFOsu7rrXwy&format=png" alt="Linux Logo" width="100" />
+
+</div>
+
 Self-taught developer passionate about Linux, Android, virtual machines, and building software projects.
 
 ## 🚀 My Repositories
