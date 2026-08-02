@@ -3,6 +3,7 @@
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="120" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/JQuery-terminal-emulator-logo.svg" alt="Terminal Logo" width="120" />
 
 </div>
 
