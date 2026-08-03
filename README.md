@@ -10,6 +10,8 @@
 
 Self-taught developer passionate about Linux, Android, virtual machines, and building software projects.
 
+![Views](https://mojoauth.com)
+
 ## 📱 Keep Android Open
 
 [🔗 Keep Android Open](https://keepandroidopen.org)
