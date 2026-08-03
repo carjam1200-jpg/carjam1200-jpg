@@ -10,6 +10,16 @@
 
 Self-taught developer passionate about Linux, Android, virtual machines, and building software projects.
 
+## 📱 Keep Android Open
+
+[🔗 Keep Android Open](https://keepandroidopen.org)
+
+> Google shouldn't choose something if its child Android chose it a while ago)
+
+> As an open dev Google what are you doing your basically screwing up Android and everything it's openness stood for
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="120" />
+
 ## 🚀 My Repositories
 
 - 🐧 RebuiltTux OS — https://github.com/carjam1200-jpg/rebuilttux-os
