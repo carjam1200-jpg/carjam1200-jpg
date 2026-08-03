@@ -1,0 +1,36 @@
+name: Update Android Open Counter
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate counter badge
+        run: |
+          python3 <<'PY'
+          from datetime import datetime, timezone
+          target = datetime(2026, 9, 1, tzinfo=timezone.utc)
+          now = datetime.now(timezone.utc)
+          diff = max(target - now, target - target)
+          days = diff.days
+          hours = diff.seconds // 3600
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="320" height="40"><rect width="320" height="40" rx="5" fill="#3ddc84"/><text x="15" y="25" fill="white" font-family="Arial" font-size="14">Keep Android Open: {days}d {hours}h</text></svg>'''
+          open('android-open-counter.svg','w').write(svg)
+          PY
+
+      - name: Commit badge
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add android-open-counter.svg
+          git commit -m "Update Android Open counter" || exit 0
+          git push
