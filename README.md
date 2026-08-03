@@ -14,6 +14,8 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 [🔗 Keep Android Open](https://keepandroidopen.org)
 
+[![Keep Android Open Counter](https://shields.io)](https://keepandroidopen.org)
+
 > Google shouldn't choose something if its child Android chose it a while ago)
 
 > As an open dev Google what are you doing your basically screwing up Android and everything it's openness stood for
