@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&section=header&text=Carson's%20Android%20Projects&fontSize=40&fontColor=ffffff" />
+<img src="https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/android-material-aero-banner.svg" />
 
 </div>
 
