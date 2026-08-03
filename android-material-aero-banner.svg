@@ -13,6 +13,6 @@
 <circle cx="130" cy="40" r="55" fill="white" opacity="0.12"/>
 <rect x="35" y="30" width="830" height="160" rx="30" fill="white" opacity="0.08"/>
 <text x="70" y="100" font-family="Arial, sans-serif" font-size="44" font-weight="bold" fill="white">Carson's Android Projects</text>
-<text x="70" y="142" font-family="Arial, sans-serif" font-size="23" fill="white">Material You • Aero Glass • Linux • Virtual Machines</text>
-<text x="70" y="178" font-family="Arial, sans-serif" font-size="18" fill="white">Open-source inspired development 🚀</text>
+<text x="70" y="142" font-family="Arial, sans-serif" font-size="23" fill="white">Material You • Aero Glass • Linux • VMs</text>
+<text x="70" y="178" font-family="Arial, sans-serif" font-size="18" fill="white">Open-source inspired development</text>
 </svg>
