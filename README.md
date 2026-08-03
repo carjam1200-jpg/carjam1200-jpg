@@ -16,7 +16,7 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 [🔗 Keep Android Open](https://keepandroidopen.org)
 
-![Keep Android Open Counter](https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/android-open-counter.svg)
+
 
 > Google shouldn't choose something if its child Android chose it a while ago)
 
