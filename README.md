@@ -10,13 +10,13 @@
 
 Self-taught developer passionate about Linux, Android, virtual machines, and building software projects.
 
-![Views](https://mojoauth.com)
+![Profile Views](https://komarev.com/ghpvc/?username=carjam1200-jpg&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 📱 Keep Android Open
 
 [🔗 Keep Android Open](https://keepandroidopen.org)
 
-
+![Keep Android Open Counter](https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/android-open-counter.svg)
 
 > Google shouldn't choose something if its child Android chose it a while ago)
 
