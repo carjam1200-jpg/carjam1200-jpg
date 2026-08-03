@@ -1,10 +1,16 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&section=header&text=Carson's%20Android%20Projects&fontSize=40&fontColor=ffffff" />
+
+</div>
+
 # 👋 Hey, I'm Carson
 
 <div align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="120" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/JQuery-terminal-emulator-logo.svg" alt="Terminal Logo" width="120" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Deus_Linux.svg" alt="Deus Linux Logo" width="120" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="120" />
 
 </div>
 
@@ -29,8 +35,6 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 📱 TikTok account: https://vm.tiktok.com/ZT9hffnq4Axpw-nrA2K/
 
 ▶️ YouTube: https://youtube.com/@spongebobhijacks?si=1QYKvAAaL29i644B
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="120" />
 
 ## 🚀 My Repositories
 
