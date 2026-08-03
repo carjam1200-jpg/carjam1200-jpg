@@ -18,7 +18,7 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 > As an open dev Google what are you doing your basically screwing up Android and everything it's openness stood for
 
-📱 Related video: https://vm.tiktok.com/ZT9hffnq4Axpw-nrA2K/
+📱 TikTok account: https://vm.tiktok.com/ZT9hffnq4Axpw-nrA2K/
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="120" />
 
