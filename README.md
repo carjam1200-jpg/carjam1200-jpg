@@ -22,6 +22,8 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 📱 TikTok account: https://vm.tiktok.com/ZT9hffnq4Axpw-nrA2K/
 
+▶️ YouTube: https://youtube.com/@spongebobhijacks?si=1QYKvAAaL29i644B
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="120" />
 
 ## 🚀 My Repositories
