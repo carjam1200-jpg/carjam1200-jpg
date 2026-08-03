@@ -20,7 +20,9 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 > Google shouldn't choose something if its child Android chose it a while ago)
 
-> As an open dev Google what are you doing your basically screwing up Android and everything it's openness stood for
+> AOSP has remained open for developers and the community. If the Android Open Source Project can stay open, why can't the rest of the Android ecosystem continue to respect that same openness?
+
+> As an open dev Google, what are you doing? You're risking the openness that made Android what it is today.
 
 > @android @google
 
@@ -36,8 +38,8 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 - 🐧 RebuiltTux 2 — https://github.com/carjam1200-jpg/rebuilttux2
 - 📱 Android VMs App — https://github.com/carjam1200-jpg/Android-vms-app
 - 📱 Android VMs App 1 — https://github.com/carjam1200-jpg/Android-vms-app1
-- 🧪 Android VMs Test — https://github.com/carjam1200-jpg/Android-vms-test
-- 🧪 Android VMs Testy — https://github.com/carjam1200-jpg/Android-vms-testy
+- 🧪 Android VMs Test — https://github.com/carjam1200-jpg/android-vms-test
+- 🧪 Android VMs Testy — https://github.com/carjam1200-jpg/android-vms-testy
 - 💿 Isovm — https://github.com/carjam1200-jpg/Isovm
 - 🧪 Testrepo — https://github.com/carjam1200-jpg/Testrepo
 - 🧪 test-repo1 — https://github.com/carjam1200-jpg/test-repo1
