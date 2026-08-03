@@ -4,6 +4,12 @@
 
 </div>
 
+<div align="center">
+
+🟢 **Material You • Aero Green • Android Inspired** 🟢
+
+</div>
+
 # 👋 Hey, I'm Carson
 
 <div align="center">
@@ -13,6 +19,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Logo" width="120" />
 
 </div>
+
+> 🟩 A developer space inspired by Android's Material design, Linux customization, and the glassy green feel of Aero themes.
 
 Self-taught developer passionate about Linux, Android, virtual machines, and building software projects.
 
