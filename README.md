@@ -32,21 +32,13 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 ![Keep Android Open Counter](https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/android-open-counter.svg)
 
-> Google shouldn't choose something if its child Android chose it a while ago)
-
-> AOSP has remained open for developers and the community. If the Android Open Source Project can stay open, why can't the rest of the Android ecosystem continue to respect that same openness?
-
-> As an open dev Google, what are you doing? You're risking the openness that made Android what it is today.
-
-> @android @google
-
 ## 🌐 Social Links
 
 📱 TikTok account: https://vm.tiktok.com/ZT9hffnq4Axpw-nrA2K/
 
 ▶️ YouTube: https://youtube.com/@spongebobhijacks?si=1QYKvAAaL29i644B
 
-<img src="https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/suno.svg" alt="Suno Logo" width="20" /> 🎵 Suno: https://suno.com/@modestsongs401
+<img src="https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/suno.svg" alt="Suno Logo" width="100" /> 🎵 Suno: https://suno.com/@modestsongs401
 
 ⭐ Most popular song: https://suno.com/s/dbEpZ0aOnMWaZxCz
 
