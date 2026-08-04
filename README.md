@@ -46,7 +46,7 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 ▶️ YouTube: https://youtube.com/@spongebobhijacks?si=1QYKvAAaL29i644B
 
-🎵 Suno: https://suno.com/@modestsongs401
+<img src="https://cdn.simpleicons.org/suno" alt="Suno Logo" width="20" /> 🎵 Suno: https://suno.com/@modestsongs401
 
 ⭐ Most popular song: https://suno.com/s/dbEpZ0aOnMWaZxCz
 
