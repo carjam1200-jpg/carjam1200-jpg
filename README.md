@@ -36,7 +36,7 @@ Self-taught developer passionate about Linux, Android, virtual machines, and bui
 
 📱 TikTok account: https://vm.tiktok.com/ZT9hffnq4Axpw-nrA2K/
 
-▶️ YouTube: https://youtube.com/@spongebobhijacks?si=1QYKvAAaL29i644B
+▶️ YouTube: https://m.youtube.com/channel/UCH0AtvbalKalYjI2IxIct7g — @spongebobhijacks
 
 <img src="https://raw.githubusercontent.com/carjam1200-jpg/carjam1200-jpg/main/suno.svg" alt="Suno Logo" width="100" /> 🎵 Suno: https://suno.com/@modestsongs401
 
